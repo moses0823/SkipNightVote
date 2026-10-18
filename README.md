@@ -12,7 +12,7 @@ SleepVote allows online players to vote to skip the night without requiring ever
 - **Majority required:** More than half of the eligible players must vote in favor to skip the night.
 - **Fixed voter list:** Eligible players are determined when the vote starts.
 - **Weather clearing:** Clears rain and thunderstorms when the vote succeeds.
-- **Fake player exclusion:** Excludes fake players whose UUIDs start with `fb07`.
+- **Fake player exclusion:** Excludes fake players whose UUIDs start with `fb07`, can be customized by modifying the source code.
 - **Multi-world support:** Resets the time in all worlds when the vote succeeds.
 
 ## Commands
