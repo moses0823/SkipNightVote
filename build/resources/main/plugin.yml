@@ -1,0 +1,9 @@
+name: SkipSleepVote
+version: '1.0.0'
+main: tw.moses.sleepvote.SleepVote
+api-version: '26.2'
+
+commands:
+  snvote:
+    description: Vote to skip the night
+    usage: /snvote [yes|no|status]
